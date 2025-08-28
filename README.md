@@ -53,6 +53,7 @@ pip install numpy pandas matplotlib
 
 ![Data Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20024354.png)
 
-![Prediction Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20023030.png)
+![Prediction Plot](<!-- Uploading "Screenshot 2025-08-26 203034.png"... -->)
+
 
 
