@@ -20,7 +20,6 @@ A simple implementation of Linear Regression without using the scikit-learn libr
 - Quick demo with sample data
 ## Usage/Examples
 
-```python
 from linear_regression import LinearRegressionModel
 
 # Sample data: Years of experience and salary
@@ -56,3 +55,4 @@ pip install numpy pandas matplotlib
 ![Data Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20024354.png)
 
 ![Prediction Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20023030.png)
+
