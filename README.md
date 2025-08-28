@@ -37,7 +37,7 @@ print(f"Predicted Salary: ${prediction}")
 ## Installation
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/Rxyan-hub/101--Linear-Regression-.git
 cd 101--Linear-Regression-
 
@@ -48,11 +48,11 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Libraries to install 
 pip install numpy pandas matplotlib
 
-## Screenshots
 
 ## Screenshots  
 
 ![Data Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20024354.png)
 
 ![Prediction Plot](https://raw.githubusercontent.com/Rxyan-hub/101--Linear-Regression-/main/screenshot/Screenshot%202025-08-26%20023030.png)
+
 
