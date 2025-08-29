@@ -1,6 +1,4 @@
-## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 
@@ -48,10 +46,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 3. Libraries to install 
 pip install numpy pandas matplotlib
 
-
-## Screenshots  
+  
 
 ![Data Plot](https://github.com/user-attachments/assets/c6a89494-ce9d-47c9-b483-7f4a2d797748)
 
 ![Prediction Plot](https://github.com/user-attachments/assets/318a251c-8964-4ca4-ac75-87691b8f26b2)
+
 
