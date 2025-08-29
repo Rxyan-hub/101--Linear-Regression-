@@ -1,8 +1,8 @@
 
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Python](https://img.shields.io/badge/python-ML-blue)
 
-![Python](https://img.shields.io/badge/python-ML-green)
+![Python](https://img.shields.io/badge/Linear-Regression-green)
 
 # Linear Regression From Scratch  
 A simple implementation of Linear Regression without using the scikit-learn library.  
@@ -51,5 +51,6 @@ pip install numpy pandas matplotlib
 ![Data Plot](https://github.com/user-attachments/assets/c6a89494-ce9d-47c9-b483-7f4a2d797748)
 
 ![Prediction Plot](https://github.com/user-attachments/assets/318a251c-8964-4ca4-ac75-87691b8f26b2)
+
 
 
